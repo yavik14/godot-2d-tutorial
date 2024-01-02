@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvQUDUpV8Dyq7WgknsM1TCeiH1uXSYsFB2tQ/KQu7ded2XlX/buBRCNQ1vgPFH3vFn2+7FhdmOMh5zcKBWGM2w==",
+  "success": true,
+  "projectFilePath": "/Users/yavik14/Dev/godot/godot-2d-tutorial/2Dexample.csproj",
+  "expectedPackageFiles": [
+    "/Users/yavik14/.nuget/packages/godot.sourcegenerators/4.2.1/godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "/Users/yavik14/.nuget/packages/godotsharp/4.2.1/godotsharp.4.2.1.nupkg.sha512",
+    "/Users/yavik14/.nuget/packages/godotsharpeditor/4.2.1/godotsharpeditor.4.2.1.nupkg.sha512",
+    "/Users/yavik14/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/yavik14/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

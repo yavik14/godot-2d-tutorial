@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1703680853
+icon.svg::CompressedTexture2D::7889988450268100956::1703602087::1703676456::1::::<><>::
+Main.cs::CSharpScript::-1::1703680536::0::1::::<>Node<>::
+main.tscn::PackedScene::6328225882330222188::1703680774::0::1::::<><>::res://Main.cs<>uid://cj5tiqndnofyp::::res://player.tscn<>uid://cpx2emxis4bcl::::res://mob.tscn
+mob.cs::CSharpScript::-1::1703680853::0::1::::<><>::
+mob.tscn::PackedScene::5874801878479758619::1703680858::0::1::::<><>::uid://bb7ryhol8uoks::::res://art/enemyFlyingAlt_1.png<>res://mob.cs<>uid://bqx0uesahxx12::::res://art/enemyFlyingAlt_2.png<>uid://dfnh48r4osjsw::::res://art/enemySwimming_1.png<>uid://8q4dv1tiw534::::res://art/enemySwimming_2.png<>uid://csxydipxb2bis::::res://art/enemyWalking_1.png<>uid://bc1ri67endmqy::::res://art/enemyWalking_2.png
+Player.cs::CSharpScript::-1::1703680853::0::1::::<><>::
+player.tscn::PackedScene::5467641062574384051::1703680853::0::1::::<><>::res://Player.cs<>uid://cp1d07n2mfrt8::::res://art/playerGrey_up1.png<>uid://uq88tge73jf0::::res://art/playerGrey_up2.png<>uid://ddfhtdxjgrq6n::::res://art/playerGrey_walk1.png<>uid://cu6bt4gc205ya::::res://art/playerGrey_walk2.png
+Readme.md::TextFile::-1::1703675761::0::1::::<><>::
+::res://art/::1703676456
+enemyFlyingAlt_1.png::CompressedTexture2D::2523745053227197870::1698074263::1703676456::1::::<><>::
+enemyFlyingAlt_2.png::CompressedTexture2D::3558476748852419475::1698074263::1703676456::1::::<><>::
+enemySwimming_1.png::CompressedTexture2D::7537521747914133742::1698074263::1703676456::1::::<><>::
+enemySwimming_2.png::CompressedTexture2D::2351029178322099165::1698074263::1703676456::1::::<><>::
+enemyWalking_1.png::CompressedTexture2D::6085184250828550830::1698074263::1703676456::1::::<><>::
+enemyWalking_2.png::CompressedTexture2D::2581520345659831248::1698074263::1703676456::1::::<><>::
+gameover.wav::AudioStreamWAV::816291876119509903::1698074263::1703676456::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::1194257077310212223::1698074263::1703676456::1::::<><>::
+playerGrey_up1.png::CompressedTexture2D::5879576341460835187::1698074263::1703676456::1::::<><>::
+playerGrey_up2.png::CompressedTexture2D::1438870516223853767::1698074263::1703676456::1::::<><>::
+playerGrey_walk1.png::CompressedTexture2D::7380609613315434035::1698074263::1703676456::1::::<><>::
+playerGrey_walk2.png::CompressedTexture2D::6240710130173613024::1698074263::1703676456::1::::<><>::
+::res://fonts/::1703676456
+FONTLOG.txt::TextFile::-1::1698074263::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1698074263::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::4661862807251108403::1698074263::1703676456::1::::<><>::
